@@ -1,0 +1,19 @@
+vocabs
+=========
+succinct
+compositional
+panacea
+aptly
+
+
+
+code
+==========
+
+
+function parameter
+---------------
+funcName(name: String, age: Int, action: () -> Unit){
+	action()
+}
+
