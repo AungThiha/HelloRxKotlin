@@ -15,8 +15,8 @@ fun main(args: Array<String>){
 
         val observable = Observable.just(episodeIV, episodeV, episodeVI)
 
-        observable.subscribe { element ->
-            println(element)
+        observable.subscribe {
+            println(it)
         }
     }
 
