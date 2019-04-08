@@ -27,3 +27,9 @@ Observable.fromIterable
 
 Observable.empty
 Observable.never
+
+Observable.create<Any> { emitter ->
+    emitter.onNext(Any)
+    emitter.onError(Throwable)
+    emitter.onComplete()
+}
