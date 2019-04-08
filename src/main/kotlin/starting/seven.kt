@@ -1,16 +1,9 @@
 package starting
 
-import episodeI
-import episodeIV
-import episodeV
-import episodeVI
-import episodeVII
 import exampleOf
 import io.reactivex.Observable
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.rxkotlin.subscribeBy
-import io.reactivex.rxkotlin.toObservable
-import rogueOne
 
 fun main(args: Array<String>) {
 
