@@ -18,3 +18,12 @@ funcName(name: String, age: Int, action: () -> Unit){
 	action()
 }
 
+
+Observable.just(listOf(Any....))
+Observable.just(Any....)
+listOf(Any...).toObservable
+Observable.fromIterable
+
+
+Observable.empty
+Observable.never
