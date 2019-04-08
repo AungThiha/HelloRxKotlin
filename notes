@@ -33,3 +33,5 @@ Observable.create<Any> { emitter ->
     emitter.onError(Throwable)
     emitter.onComplete()
 }
+
+file.readText(kotlin.text.Charsets.UTF_8)
