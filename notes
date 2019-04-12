@@ -37,6 +37,6 @@ Observable.create<Any> { emitter ->
 file.readText(kotlin.text.Charsets.UTF_8)
 
 
-PublishSubject
-
-BehaviourSubject
+1) PublishSubject
+2) BehaviourSubject
+3) ReplaySubject
