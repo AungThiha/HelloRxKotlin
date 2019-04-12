@@ -38,3 +38,5 @@ file.readText(kotlin.text.Charsets.UTF_8)
 
 
 PublishSubject
+
+BehaviourSubject
