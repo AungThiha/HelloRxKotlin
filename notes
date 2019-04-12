@@ -40,3 +40,19 @@ file.readText(kotlin.text.Charsets.UTF_8)
 1) PublishSubject
 2) BehaviourSubject
 3) ReplaySubject
+
+
+list.joinToString(separator) {  }
+
+list.map {}
+list.fold(initialValue) { s, a -> {}}
+
+(0 until 1).forEach {
+    println(it)
+}
+
+
+things missed
+======
+1) Sealed class
+2) funny extension method in supportCode. Look for "IntRange.random()"
