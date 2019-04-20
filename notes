@@ -51,6 +51,9 @@ list.fold(initialValue) { s, a -> {}}
     println(it)
 }
 
+Observables.ignoreElements()
+Observables.elementAt(index)
+
 
 things missed
 ======
