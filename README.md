@@ -4,7 +4,7 @@ Learning RxKotlin from www.raywenderlich.com
 
 ## Chapter 1, Getting started with RxKotlin
 
-This is Episode 1 to 10
+Episode 1 to 10 is in this repo
 
 Episode 11 to 13 is in [Combinestagram](https://github.com/AungThiha/Combinestagram)
 
