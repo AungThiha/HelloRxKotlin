@@ -1,4 +1,4 @@
-package starting
+package starting.onefigure
 
 import detours
 import exampleOf

@@ -55,8 +55,21 @@ Observable.ignoreElements()
 Observable.elementAt(index)
 Observable.filter { boolean }
 
+Observable.skip()
+Observable.skipWhile { }
+Observable.skipUntil(ObservableSource)
+
+Observable.take()
+Observable.takeWhile {}
+Observable.takeUntil(ObservableSource)
+
+
+Observable.distinct()
+Observable.distinctUntilChanged()
+
 
 things missed
 ======
 1) Sealed class
 2) funny extension method in supportCode. Look for "IntRange.random()"
+
