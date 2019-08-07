@@ -67,6 +67,7 @@ Observable.takeUntil(ObservableSource)
 Observable.distinct()
 Observable.distinctUntilChanged()
 
+Observable.debounce(Int, TIMEUNIT, Scheduler)
 
 things missed
 ======
