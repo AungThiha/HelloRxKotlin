@@ -2,7 +2,7 @@
 
 Learning RxKotlin from www.raywenderlich.com
 
-The list of new things learned from this course is listed in [notes](https://github.com/AungThiha/HelloRxKotlin/notes)
+The list of new things learned from this course is listed in [notes](notes)
 
 ## Chapter 1, Getting started with RxKotlin
 
