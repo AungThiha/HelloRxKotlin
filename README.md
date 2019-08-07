@@ -2,6 +2,8 @@
 
 Learning RxKotlin from www.raywenderlich.com
 
+The list of new things learned from this course is listed in [notes](https://github.com/AungThiha/HelloRxKotlin/notes)
+
 ## Chapter 1, Getting started with RxKotlin
 
 Episode 1 to 10 is in this repo
@@ -14,3 +16,8 @@ Episode 14 is a conclusion for this chapter
 
 Episode 15 is an introduction
 
+Episode 16 to 18 is in this repo
+
+Episode 19 - 21 is in [Combinestagram](https://github.com/AungThiha/Combinestagram)
+
+Episode 22 is conclusion for this chapter
