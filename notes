@@ -67,6 +67,8 @@ Observable.takeUntil(ObservableSource)
 Observable.distinct()
 Observable.distinctUntilChanged()
 
+Observable.share()
+
 Observable.debounce(Int, TIMEUNIT, Scheduler)
 
 things missed
