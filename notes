@@ -71,6 +71,10 @@ Observable.share()
 
 Observable.debounce(Int, TIMEUNIT, Scheduler)
 
+Observable.map
+Observable.flatMap
+Observable.switchMap
+
 things missed
 ======
 1) Sealed class

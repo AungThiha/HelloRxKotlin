@@ -1,4 +1,4 @@
-package starting.onefigure
+package starting.tens
 
 import exampleOf
 import io.reactivex.disposables.CompositeDisposable
