@@ -136,3 +136,5 @@ sealed class HandError: Throwable() {
     class Busted: HandError()
 }
 
+const val sentinel = -1
+
