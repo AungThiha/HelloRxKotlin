@@ -138,3 +138,34 @@ sealed class HandError: Throwable() {
 
 const val sentinel = -1
 
+
+const val luke = "Luke Skywalker"
+const val hanSolo = "Han Solo"
+const val leia = "Princess Leia"
+const val chewbacca = "Chewbacca"
+
+const val lightsaber = "Lightsaber"
+const val dl44 = "DL-44 Blaster"
+const val defender = "Defender Sporting Blaster"
+const val bowcaster = "Bowcaster"
+
+fun stringFrom(minutes: Int): String {
+    val hours = minutes / 60
+    val min = minutes % 60
+    return String.format("%d:%02d", hours, min)
+}
+
+val runtimes = mapOf(
+        episodeI to 136,
+        episodeII to 142,
+        theCloneWars to 98,
+        episodeIII to 140,
+        solo to 142,
+        rogueOne to 142,
+        episodeIV to 121,
+        episodeV to 124,
+        episodeVI to 134,
+        episodeVII to 136,
+        episodeVIII to 152
+)
+

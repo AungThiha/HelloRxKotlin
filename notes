@@ -80,6 +80,12 @@ Observable.concatWith
 Observable.concat(a, b)
 Observable.mergeWith
 
+Observable.combineLatest
+Observables.zip
+Observable.ambWith
+Observable.reduce
+Observable.scan
+
 things missed
 ======
 1) Sealed class
