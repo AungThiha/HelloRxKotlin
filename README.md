@@ -35,3 +35,11 @@ Episode 26 - 29 is in [GitFeed](https://github.com/AungThiha/GitFeed)
 Episode 30 is conclusion
 
 ## Chapter 4, Combining Observables
+
+Episode 31 is an introduction
+
+Episode 32 - 34 is in this repo
+
+Episode 35 - 39 is in [OurPlanet](https://github.com/AungThiha/OurPlanet)
+
+Episode 40 is conclusion
